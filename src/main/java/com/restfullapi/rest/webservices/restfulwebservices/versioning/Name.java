@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices.versioning;
+package com.restfullapi.rest.webservices.restfulwebservices.versioning;
 
 public class Name {
 	private String firstName;

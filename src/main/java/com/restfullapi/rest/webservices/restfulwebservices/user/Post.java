@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices.user;
+package com.restfullapi.rest.webservices.restfulwebservices.user;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
